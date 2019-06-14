@@ -36,3 +36,4 @@ class Kid
   include FancyDance::InstanceMethods
 end
 
+
